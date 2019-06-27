@@ -1,0 +1,299 @@
+
+@media (max-width: 575.98px) { 
+/*Header start*/
+	.menu ul li a {
+		
+            font-weight:700;
+            font-size:20px;
+            text-align: right;
+            padding: 0px !important;
+	}
+	.logo{
+	width: 85%;
+     }
+
+	/*banner start*/
+	.banner{
+    background-color: #fcdb00;
+    padding-bottom: 60px;
+    }
+	.banner_content{
+       margin-top: 18px;
+       text-align: center;
+    }
+    .banner_content h1{
+    font-size: 25px;
+    font-weight: 700;
+    }
+    .banner_content h2{
+    font-size: 18px;
+    font-weight: 400;
+    }
+   .icon li i{
+    color: #000000;
+    margin-right: 15px;
+    font-size: 40px;
+    }
+    .ci{
+     bottom: -65px;
+    }
+    .ci li{
+     width: 10px;
+     height: 10px;
+     border-radius: 50%;
+     background-color:#fff;
+}
+
+/*Features start*/
+.single{
+	margin-top: 0px;
+	text-align: center;
+}
+h3{
+    font-weight:700;
+    font-size: 20px;
+    padding: 0px;
+    margin: 0px;
+}
+.features_heading h1{   
+    font-size: 25px;
+    margin-top: 70px;   
+}
+.features{
+    padding-bottom: 50px;       
+}
+.single i{
+	font-size: 35px;
+	padding-bottom: 0px;
+	margin: 0px;
+}
+.single p{
+	padding-top: 10px;
+}
+
+
+/*Contact start*/
+.contact_heading h1{
+    font-size: 25px;   
+}
+.submit{
+    padding: 8px 30px;
+    margin-top: 10px;
+    font-size: 16px;
+}
+.contact_link{
+    margin-top: 40px;
+}
+
+/*Contact end*/
+
+/*footer start*/
+
+address{
+	text-align: center;
+}
+.footer_content{
+	margin: 30px 40px;
+}
+}
+
+
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/*Header start*/
+	.menu ul li a {
+		
+            font-weight:700;
+            font-size:22px;
+            text-align: right;
+            padding: 0px !important;
+			}
+
+/*banner start*/
+
+.banner_content{
+       margin-top: 18px;
+       text-align: center;
+}
+.banner_content h1{
+    font-size: 30px;
+    font-weight: 700;
+}
+.banner_content h2{
+    font-size: 20px;
+    font-weight: 400;
+}
+/*Features start*/
+
+.single{
+	margin-top: 10px;
+	text-align: center;
+}
+.features{
+    padding-bottom: 50px;       
+}
+.features_heading p{
+    font-size: 18px; 
+}
+/*Contact start*/
+.contact_heading h1{
+    
+    font-size: 25px; 
+}
+.submit{
+    padding: 8px 30px;
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+.contact_link{
+    margin-top: 40px;
+}
+.contact_link a{
+    margin: 80px;
+}
+/*footer start*/
+
+address{
+	text-align: center;
+}
+.footer_content{
+	margin: 30px 20px;	
+}
+
+}
+
+
+
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+
+/*Header start*/
+	.menu ul li a {		
+            font-weight:700;
+            font-size:22px;
+            text-align: right;
+            padding: 0px !important;
+            	}
+
+/*banner start*/
+	.banner_content{
+    margin-top: 18px;
+}
+
+/*Features start*/
+
+.features_heading p{
+    font-size: 16px;
+    margin-bottom: 50px;
+    word-spacing: 1.0px;
+}
+.single i{
+	font-size: 35px;
+	padding-bottom: 0px;
+	margin-top: 0px;
+}
+.single p{
+	padding-top: 10px;
+	margin-left: 10px;
+}
+h3{
+    font-weight:700;
+    font-size: 20px;
+    padding-top: 5px;
+    margin-left: 10px; 
+}
+
+/*Contact start*/
+.contact{    
+   padding: 100px;   
+}
+.contact_heading h1{
+ font-size: 28px;
+}
+.contact_heading p{
+	font-size: 16px;
+    text-align:center;
+}
+.submit{
+    padding: 10px 30px;
+    font-size: 16px;
+}
+.c_form input{
+	padding: 22px;
+	font-size: 15px;
+}
+
+}
+
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+/*Header start*/
+	.menu ul li a {		
+            font-weight:700;
+            font-size:22px;
+            text-align: right;
+            padding:0 30px !important;		
+	}
+
+
+/*banner start*/
+		.banner_content{
+       margin-top: 60px;     
+}
+
+
+/*Features start*/
+.features_heading p{
+    font-size: 16px;
+    margin-bottom: 50px;
+    word-spacing: 1.0px;
+}
+.single i{
+	font-size: 35px;
+	padding-bottom: 0px;
+	margin-top: 0px;
+}
+.single p{
+	padding-top: 10px;
+	margin-left: 10px;
+}
+h3{
+    font-weight:700;
+    font-size: 20px;
+    padding-top: 5px;
+    margin-left: 10px; 
+}
+
+/*Contact start*/
+.contact{    
+   padding: 100px;   
+}
+.contact_heading h1{
+ font-size: 30px;
+}
+.contact_heading p{
+	font-size: 18px;
+    text-align:center;
+}
+.submit{
+    padding: 13px 35px;
+    font-size: 16px;
+}
+.c_form input{
+	margin-left: 16px;
+	padding: 25px;
+	font-size: 15px;
+}
+
+}
+
+
+
+@media (min-width: 1200px) { 
+	
+
+}

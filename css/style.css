@@ -1,0 +1,184 @@
+@font-face {
+    font-family: HelveticaNeue_Bold;
+    src:url(../fonts/HelveticaNeue_Bold.otf);
+}
+body{    
+    font-family: 'PT Sans', sans-serif;
+}
+
+/*Header start*/
+header{
+    
+    background-color: #fcdb00;  
+    padding:20px 0;    
+}
+.logo{
+	width: 100%;
+}
+.menu ul li a{
+font-weight:700;
+font-size:22px;
+text-align: right;
+padding: 0 45px !important;
+}
+
+/*banner start*/
+.banner{
+    background-color: #fcdb00;
+    padding-bottom: 100px;
+}
+.banner_content{
+    margin-top: 40px;
+}
+
+.banner_content h1{
+    font-size: 32px;
+    font-weight: 700;
+}
+.banner_content h2{
+    font-size: 22px;
+    font-weight: 400;
+    letter-spacing: .5px;
+    word-spacing: 2.5px;
+    margin: 20px 0;
+}
+.banner_content p{
+    font-size: 16px;
+    word-spacing: 2px;
+    margin-bottom: 20px;
+}
+.banner_img{
+    margin-top:20px;
+}
+.icon li i{
+    color: #000000;
+    margin-right: 15px;
+    font-size: 50px;
+}
+.ci{
+     bottom: -90px;
+}
+.ci li{
+     width: 15px;
+     height: 15px;
+     border-radius: 50%;
+     background-color:#fff;
+}
+/*banner end*/
+
+
+/*features starts */
+.features{
+    padding-bottom: 100px;
+    padding-top: 15px;
+    
+}
+.features_heading{
+    text-align: center;
+    
+}
+.features_heading h1{
+    font-weight: 700;
+    font-size: 32px;
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+.features_heading p{
+    font-size: 16px;
+    margin-bottom: 50px;
+}
+.single{
+    margin-bottom: 40px;
+    margin-top: 40px;  
+}
+.single_logo{
+    font-size: 40px;
+}
+
+h3{
+    font-weight:700;
+    font-size: 23px;
+    margin-top: 10px; 
+}
+/*features ends */
+
+
+/*contact start */
+.contact{
+
+    background-color: #000000;
+    padding: 100px 0 40px;
+    text-align: center;
+}
+.contact_heading h1{
+    font-weight: 700;
+    color:  #fcdb00;
+    padding: 10px 0px;
+}
+.contact_heading p{
+    color: #898989;
+    padding-bottom: 10px;
+    text-align:center !important;
+}
+.submit{
+    padding: 12px 40px;
+    background-color:#fcdb00; 
+    margin-top: 23px;
+    color: #000000;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.btn-custom button:hover{
+	border:1px solid #fcdb00;
+    color: #fcdb00;
+	background-color: #000000;
+    opacity: 1.0;
+    transition: 0.2s;
+}
+.contact p{
+    text-align:left;
+}
+.contact a{
+    color:#fff;
+}
+.contact_link{
+    margin-top: 60px;
+}
+.contact_link i{
+    padding-right: 10px;
+}
+.contact_link a{
+    color: #fcdb00;
+    font-size: 40px;
+}
+.contact_link a:hover{
+    color: white;
+    opacity: 1.0;
+    transition: 0.2s;
+}
+.c_form input{
+	padding: 25px 50px;
+	font-size: 15px;
+}
+
+
+/*Footer start */
+address{
+	font-size: 14px;
+	margin-left: 35px;
+}
+.footer_content a{
+    color: #fff;
+    font-size: 14px;
+}
+
+footer{
+	
+    background-color: #000000;
+    color: #FFFFFF;
+    padding: 60px  0px;
+
+}
+/*Footer end */
